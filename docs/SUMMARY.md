@@ -44,5 +44,5 @@
 
 ## プロジェクトロードマップ
 
-* [🗓️ 短期、中期、長期の目標とマイルストーン](roadmap/milestone.md)
+* [🗓️ ロードマップと目標](roadmap/roadmap.md)
 * [🔗 実施予定のプロジェクト](roadmap/project.md)
