@@ -5,7 +5,7 @@
 ## 概要と目的
 
 * [💡 DAOの目的](overview/what-we-do.md)
-* [✨ 学校OB会 MVV](overview/our-features.md)
+* [✨ 伊知哉会のMVV](overview/our-features.md)
 
 ## 技術的枠組み
 
