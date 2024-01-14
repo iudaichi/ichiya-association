@@ -1,22 +1,12 @@
-# 👋 Welcome to A Product
-
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 👋 Welcome to ichiyaDAO White Paper
 
 ## Overview
+このサイトは伊知哉会の運営組織であるichiyaDAOのホワイトペーパーを掲載しております。
 
-Here are a couple of example overviews from products with really great docs:
+> 現在掲載されている情報は不確定要素や将来実装予定の機能も記載されていることにご留意ください。
+>
+> — 最新情報は [公式Twitter](https://twitter.com/daichi1re) にてご確認ください
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
 ## Quick links
 
