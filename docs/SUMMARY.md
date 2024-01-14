@@ -33,7 +33,7 @@
 
 ## コミュニケーションとエンゲージメント
 
-* [🛞 メンバーとのコミュニケーションチャネル](communication/communication-channel.md)
+* [🛞 コミュニケーションチャネル](communication/communication-channel.md)
 * [🤩 エンゲージメント活動](communication/activity.md)
 
 
