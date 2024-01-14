@@ -2,23 +2,47 @@
 
 * [👋 Welcome to ichiyaDAO](README.md)
 
-## Overview
+## 概要と目的
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 DAOの目的](overview/what-we-do.md)
+* [✨ 学校OB会のビジョンとミッション](overview/our-features.md)
 
-## Product Guides
+## 技術的枠組み
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [⌨️ 使用するブロックチェーン技術](system-structure/blockchain.md)
+* [⚜️ トークンの設計](system-structure/token.md)
 
-## Fundamentals
+## 組織
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🏹 組織構成](organization/platform.md)
+* [🏢 決定プロセス](organization/governance_process.md)
+* [🧑‍⚖️ 法的枠組み](organization/legal.md)
 
-## Use Cases
+## 資金調達と経済的インセンティブ
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [💰 初期資金調達方法](finance/startup.md)
+* [💸 トークンエコノミーと報酬システム](finance/token-system.md)
+* [👛 財務計画と予算](finance/plan.md)
+* [🥽 会計と資金の透明性](organization/accounting.md)
+
+## 参加者と役割
+
+* [📝 コミュニティの参加規則](member-roles/guideline.md)
+* [👥 一般参加者の権利と義務](member-roles/member.md)
+* [🎗️ 役員の選出方法と役割](member-roles/board-member.md)
+
+## コミュニケーションとエンゲージメント
+
+* [🛞 メンバーとのコミュニケーションチャネル](communication/communication-channel.md)
+* [🤩 エンゲージメント活動](communication/activity.md)
+
+
+## リスク管理とセキュリティ
+
+* [💽 データ保護とプライバシー](risk/privacy.md)
+* [🧶 リーガルリスク(懸念点)](risk/legal-risk.md)
+
+## プロジェクトロードマップ
+
+* [🗓️ 短期、中期、長期の目標とマイルストーン](roadmap/milestone.md)
+* [🔗 実施予定のプロジェクト](roadmap/project.md)
