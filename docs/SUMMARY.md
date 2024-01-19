@@ -11,6 +11,8 @@
 
 * [🪐 ブロックチェーン](system-structure/blockchain.md)
 * [🔓 トークン設計](system-structure/token.md)
+* [🖼 NFT](mi/nft.md)
+* [🪙 $ICC (iU Ichiya Coin)](mi/usdicc-iu-ichiya-coin.md)
 
 ## 組織
 
