@@ -1,18 +1,18 @@
 # Table of contents
 
-* [👋 Welcome to ichiyaDAO](README.md)
+* [👋 Welcome to iUDAO](README.md)
 
 ## 概要と目的
 
 * [💡 DAOの目的](overview/what-we-do.md)
-* [✨ 伊知哉会のMVV](overview/our-features.md)
+* [✨ IUDAOのMVV](overview/our-features.md)
 
 ## 技術的枠組み
 
 * [🪐 ブロックチェーン](system-structure/blockchain.md)
 * [🔓 トークン設計](system-structure/token.md)
 * [🖼 NFT](mi/nft.md)
-* [🪙 $ICC (iU Ichiya Coin)](mi/usdicc-iu-ichiya-coin.md)
+* [🪙 $IDC (iU DAO Coin)](mi/usdidc-iu-dao-coin.md)
 
 ## 組織
 
