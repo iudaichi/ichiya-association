@@ -10,11 +10,11 @@
 >
 > — 最新情報は [公式Twitter](https://twitter.com/daichi1re) にてご確認ください
 
-## UDAOとは
+## iUDAOとは
 
-情報経営イノベーション専門職大学のOB会運営組織です。\
-すべての活動は$IDCを利用した投票活動によって決まります。\
-ただのOB会として同窓会を開くだけではなく持続的なOBコミュニティの形成をするために、OB会をオープンで民主的なものとして構築することを目的として活動しています。\
+iU 情報経営イノベーション専門職大学の全ての関係者の集まりです。\
+すべての活動は[$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin)を利用した投票活動によって決まります。\
+iU入学者時に既定のウォレットに対して[$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin)DISCORDコミュニティを通して投票活動を行うことが出来るようになります。\
 トークンエコシステムを形成することにより人の善意に頼らない真の自律的組織の設立を図る。
 
 ## iUDAOの参加資格
