@@ -6,6 +6,7 @@
 
 * [💡 DAOの目的](overview/what-we-do.md)
 * [✨ IUDAOのMVV](overview/our-features.md)
+* [😄 活動内容](to/huo-dong-nei-rong.md)
 
 ## 技術的枠組み
 
