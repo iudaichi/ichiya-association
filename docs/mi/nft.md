@@ -14,11 +14,11 @@ description: NFT
 
 ## FounderNFT
 
-金額：資本金
+金額：10,000円
 
 概要：株式会社設立メンバーにエアドロ。
 
-ユーティリティ：1NFTにつき、100IDCを付与。
+ユーティリティ：1NFTにつき、10IDCを付与。
 
 ## developerNFT
 
