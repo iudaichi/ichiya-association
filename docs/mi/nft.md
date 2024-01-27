@@ -4,7 +4,7 @@ description: NFT
 
 # 🖼 NFT
 
-## ○期生NFT
+## iUNFT
 
 金額：無料
 
@@ -30,7 +30,7 @@ description: NFT
 
 ## サポーターNFT
 
-金額：100,000円
+金額：10,000円
 
 概要：サポーターNFT購入者にエアドロ。
 
