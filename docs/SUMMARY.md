@@ -28,11 +28,6 @@
 ## コミュニケーションとエンゲージメント
 
 * [👾 コミュニケーションチャネル](communication/communication-channel.md)
-* [🤩 エンゲージメント活動](communication/activity.md)
-
-## リスク管理とセキュリティ
-
-* [💽 データ保護とプライバシー](risk/privacy.md)
 
 ## プロジェクトロードマップ
 
