@@ -2,9 +2,7 @@
 
 ## Overview
 
-テストで書いてみる。
-
-このサイトは伊知哉会の運営組織であるiUDAOのホワイトペーパーを掲載しております。
+このサイトはiU学生によるDAO組織であるiUDAOのホワイトペーパーを掲載しております。
 
 > 現在掲載されている情報は不確定要素や将来実装予定の機能も記載されていることにご留意ください。
 >
@@ -12,15 +10,20 @@
 
 ## iUDAOとは
 
-iU 情報経営イノベーション専門職大学の全ての関係者の集まりです。\
-すべての活動は[$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin)を利用した投票活動によって決まります。\
-iU入学者時に既定のウォレットに対して[$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin)DISCORDコミュニティを通して投票活動を行うことが出来るようになります。\
+iU DAOはiU 情報経営イノベーション専門職大学の学生によって運営されているDAOです。\
+すべての活動は [$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin) を利用した投票活動によって決まります。\
+iU入学時に入学者全員に対して $IDC が配布され、学生であれば誰でもガバナンス投票に参加することが出来るようになります。\
+( $IDC の配布割合などは[トークン設計](system-structure/token.md)のページをご覧ください。）\
 トークンエコシステムを形成することにより人の善意に頼らない真の自律的組織の設立を図る。
 
 ## iUDAOの参加資格
 
-iUのOB・OGのみが参加することができ、卒業時に規定のウォレットに対して[$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin)が発行されDISCORDコミュニティを通して投票活動を行うことが可能になります。
+DAOの参加者は[規定のNFT](mi/nft.md)を所持している必要があります。\
+これらのNFTは主にiUの関係者に無償・有償で配られます。\
+NFTを所有していることでDiscordやイベントに参加することが出来るようになります。
 
-## [$IDC (iU DAO Coin)](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/12/mi/usdicc-iu-ichiya-coin)
+## $IDC (iU DAO Coin)
 
-$IDCは[ICP](https://internetcomputer.org/)上に存在するネイティブトークンであり、様々なユーティリティを保持しています。
+$IDC は現在[Polygonネットワーク](https://polygon.technology/)上に存在するiU DAOのガバナンストークンです。\
+投票活動以外にも様々な機能を有しており、iU DAO内に限らずiU内で様々な価値を持つトークンになることを目的としております。\
+今後はマルチチェーンに展開し、様々なDEXやDAOとコラボレーションしていきます。\
