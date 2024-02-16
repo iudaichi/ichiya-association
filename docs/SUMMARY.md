@@ -5,7 +5,7 @@
 ## 概要と目的
 
 * [💡 DAOの目的](overview/what-we-do.md)
-* [✨ IUDAOのMVV](overview/our-features.md)
+* [✨ iUDAOのパーパス](overview/our-features.md)
 * [😄 想定活動内容](to/xiang-ding-huo-dong-nei-rong.md)
 
 ## 技術的枠組み
