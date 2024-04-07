@@ -6,24 +6,26 @@
 
 * [💡 DAOの目的](overview/what-we-do.md)
 * [✨ iUDAOのパーパス](overview/our-features.md)
+* [🏢 iUDAO合同会社について](to/iudaonitsuite.md)
 * [😄 想定活動内容](to/xiang-ding-huo-dong-nei-rong.md)
 
-## 技術的枠組み
+## TOKENS
 
-* [🪙 $IDC (iU DAO Coin)](mi/usdidc-iu-dao-coin.md)
-* [🖼️ NFT](mi/nft.md)
-* [📒 ダッシュボード](mi/dasshubdo.md)
+* [🪙 $IDC (iU DAO Coin)](tokens/usdidc-iu-dao-coin.md)
+* [🖼️ NFT](tokens/nft.md)
+* [📒 ダッシュボード](tokens/dasshubdo.md)
 
-## 組織
+## Governance
 
-* [🤝 組織構成](organization/platform.md)
-* [🏢 決定プロセス](organization/governance\_process.md)
-* [💰 初期資金調達方法](zu-zhi/startup.md)
+* [🤝 Governanceの概要](governance/platform.md)
+* [✅ 提案から可決・否決までのプロセス](governance/governance\_process.md)
+* [💰 資金の管理](governance/no.md)
 
-## 参加者と役割
+## アルムナイ
 
-* [📝 コミュニティの参加規則](member-roles/guideline.md)
-* [👥 一般参加者の権利と義務](member-roles/member.md)
+* [アルムナイの概要](arumunai/arumunaino.md)
+* [iFY](arumunai/ify.md)
+* [Page](arumunai/page.md)
 
 ## コミュニケーションとエンゲージメント
 
