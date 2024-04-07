@@ -1,5 +1,6 @@
 ---
 description: $ICCは伊知哉会のネイティブガバナンストークンです。
+coverY: 0
 ---
 
 # 🪙 $IDC (iU DAO Coin)

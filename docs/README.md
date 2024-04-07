@@ -13,7 +13,7 @@
 iU DAOはiU 情報経営イノベーション専門職大学の学生によって運営されているDAOです。\
 すべての活動は [$IDC](https://app.gitbook.com/o/AJG9nY5FLMCbeq7jrlCn/s/kWVFL45IcjROBf7kBkl9/\~/changes/13/mi/usdidc-iu-dao-coin) を利用した投票活動によって決まります。\
 iU入学時に入学者全員に対して $IDC が配布され、学生であれば誰でもガバナンス投票に参加することが出来るようになります。\
-( $IDC の配布割合などは[トークン設計](system-structure/token.md)のページをご覧ください。）
+( $IDC の配布割合などは[トークン設計](broken-reference)のページをご覧ください。）
 
 iU DAOは主に下記3つの機能を有しています。
 

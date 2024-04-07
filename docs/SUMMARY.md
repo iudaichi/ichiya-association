@@ -10,9 +10,9 @@
 
 ## 技術的枠組み
 
-* [🔓 トークン設計](system-structure/token.md)
-* [🖼 NFT](mi/nft.md)
 * [🪙 $IDC (iU DAO Coin)](mi/usdidc-iu-dao-coin.md)
+* [🖼️ NFT](mi/nft.md)
+* [📒 ダッシュボード](mi/dasshubdo.md)
 
 ## 組織
 
@@ -31,4 +31,4 @@
 
 ## プロジェクトロードマップ
 
-* [🗓 ロードマップと目標](purojekutordomappu/rdomapputo.md)
+* [🗓️ ロードマップと目標](purojekutordomappu/rdomapputo.md)
