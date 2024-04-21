@@ -4,9 +4,8 @@
 
 ## 概要と目的
 
-* [💡 DAOの目的](overview/what-we-do.md)
 * [✨ iUDAOのパーパス](overview/our-features.md)
-* [🏢 合同会社iUDAOについて](to/iudaonitsuite.md)
+* [🏢 合同会社iUDAO](to/he-tong-hui-she-iudao.md)
 * [😄 想定活動内容](to/xiang-ding-huo-dong-nei-rong.md)
 
 ## 技術的枠組み
@@ -20,13 +19,6 @@
 * [🤝 Governanceの概要](governance/platform.md)
 * [✅ 決定プロセス](governance/governance\_process.md)
 * [💰 資金の管理](governance/no.md)
-
-## アルムナイ
-
-* [🎊 iUアルムナイの概要](arumunai/iuarumunaino.md)
-* [📜 iFY](arumunai/ify.md)
-* [✅ 決定プロセス](arumunai/governance\_process.md)
-* [💰 資金の管理](arumunai/no.md)
 
 ## コミュニケーションとエンゲージメント
 

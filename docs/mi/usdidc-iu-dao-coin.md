@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪙 $IDC (iU DAO Coin)
 
-$IDCは、Polygon POS上で展開されています。
+$IDCは、Polygon POS上で展開される予定です。
 
 ### $IDCの概要
 
@@ -19,16 +19,4 @@ $IDCの保有によって、iUDAOの資金の利用に関する提案や、ガ�
 
 ### 供給量とアロケーション
 
-初回発行枚数は、582,000,000枚数です。\
-20年間にわたって、以下のように配布されていきます。
-
-* iUID発行時に、15,000IDCを配布。
-* iUID保有者は、3ヶ月に1度、1,500IDCを受け取り可能。
-* InvestorNFT保有者、3ヶ月に1度、30,000IDCを受け取り可能。
-* FounderNFT保有者は、3ヶ月に1度、45,000IDCを受け取り可能。
-
-$IDCの保有割合は以下の予想となっています。
-
-<figure><img src="../.gitbook/assets/Day1-allocation.png" alt="" width="375"><figcaption><p>初期段階のアロケーション</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/20years-allocation.png" alt="" width="375"><figcaption><p>20年後のアロケーション</p></figcaption></figure>
+未だ確定しておりません。6月までに更新予定です。
