@@ -1,6 +1,5 @@
 ---
 description: ガバナンストークン
-coverY: 0
 ---
 
 # 🪙 $IDC (iU DAO Coin)
